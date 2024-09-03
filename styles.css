@@ -262,7 +262,7 @@
   
   .readmore-p1 {
     justify-content: flex-end;
-    background-image: url("../assets/placeholder.png");
+    background-image: url("b.png");
   
     & div {
       text-align: center;
@@ -376,7 +376,7 @@
           }
   
           & .bottom-readmore-image {
-            background-image: url("../assets/placeholder.png");
+            background-image: url("b.png");
           }
   
           & .bottom-readmore-main {
